@@ -2,7 +2,7 @@
 
 
 - :snake: I am learning **Python** and **C** <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 250 width = 350/>
-- 🔭 I'm currently training in **Data Structures and Algorithms** and **System Design**  
+- 🔭 I'm training in **Data Structures and Algorithms** and **System Design**  
 - :dolphin: I'm training in **Kubernetes** for Developers
 - :musical_note: I'm learning to play my harmonica
 - :basketball: I like to play basketball
