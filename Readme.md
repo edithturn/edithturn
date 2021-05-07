@@ -12,10 +12,13 @@
 
 ### 📫 Feel free to conect with me:   <a href="https://linkedin.com/in/edithpuclla" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/edithpuclla" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="silwal_nirmal" height="35" width="35" /></a> &nbsp;
 
-### 📺 Latest YouTube Videos 🎧
+### 📺 Latest YouTube Videos <img src="https://images.vexels.com/media/users/3/141532/isolated/preview/3a36614d8dde3aa7ee06398cb6dc80cb-icono-de-goma-de-youtube-by-vexels.png" alt="linux" width="25" height="25"/>
 <!-- YOUTUBE:START -->
 - [Using GUI For Debug Your Code With LLDB](https://www.youtube.com/watch?v=V7Xinz27XQA)
 <!-- YOUTUBE:END -->
+
+
+
 
 ### 🌱 Latest Blog Posts :art:
 
@@ -26,5 +29,6 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
 
-<img src = "https://github-readme-stats.vercel.app/api?username=edithturn&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<img height="200
+<img src = "https://github-readme-stats.vercel.app/api?username=edithturn&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200
 " alt="Github Streak" src="https://lh3.googleusercontent.com/proxy/6MqgN_FsPLbag3LjZl4MlDCtAuyRImR95AG88eC_i2COpAqwgZH7DcH-nBYzsCov5GqTwT3XOc_uHJn9VdJcJzoCka98uAN0J6JuF55cq27_" >
