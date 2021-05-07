@@ -13,7 +13,7 @@
 
 ### 📺 Latest YouTube Videos <img src="https://images.vexels.com/media/users/3/141532/isolated/preview/3a36614d8dde3aa7ee06398cb6dc80cb-icono-de-goma-de-youtube-by-vexels.png" alt="linux" width="25" height="25"/>
 <!-- YOUTUBE:START -->
-- [Using GUI For Debug Your Code With LLDB](https://www.youtube.com/watch?v=V7Xinz27XQA)
+- [Using GUI For Debug Your Code With LLDB](https://www.youtube.com/watch?v=2Yw1chhv7UQ)
 <!-- YOUTUBE:END -->
 
 
