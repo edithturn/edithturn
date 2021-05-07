@@ -8,11 +8,9 @@
 - :basketball: I like to play basketball
 - 💬 Ask me about: Linux, DevOps, Cloud, Docker, Kubernetes, C, Python.
 <img src="https://img.icons8.com/color/96/000000/linux.png" alt="linux" width="25" height="25"/><img src="https://cdn1.iconfinder.com/data/icons/devops-cycle/256/devops_cycle_1_filled-512.png" alt="devops" width="25" height="25"/> <img src="https://www.aloudinthecloud.com/images/gcp_icon_cloud.png" alt="css3" width="20" height="20"/> <img src="https://img.favpng.com/14/23/25/clip-art-france-silicon-valley-docker-vector-graphics-png-favpng-Nb3e14EUwkNhJd86iPTT2wQ84.jpg" alt="html5" width="20" height="20"/> <img src="https://w1.pngwing.com/pngs/241/864/png-transparent-amazon-logo-kubernetes-software-deployment-cloud-computing-orchestration-computer-cluster-amazon-web-services-microsoft-azure.png" alt="java" width="20" height="20"/> <img src="https://img.icons8.com/color/452/c-programming.png" alt="mysql" width="20" height="20"/> <img src="https://img.icons8.com/color/96/000000/python.png" alt="python" width="20" height="20"/> </p><p align="center">
-
+- :blush: Always happy to help, especially if you are trying something new!
 
 ### 📫 Feel free to conect with me:   <a href="https://linkedin.com/in/edithpuclla" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/edithpuclla" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="silwal_nirmal" height="35" width="35" /></a> &nbsp;
-<br/> 
-
 
 ### 📺 Latest YouTube Videos 🎧
 <!-- YOUTUBE:START -->
