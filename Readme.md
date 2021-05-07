@@ -1,7 +1,7 @@
 ### Hi there, I'm Edi!  :dolphin:
 
 
-- 🌱 I am learning Python and C <img align="right" alt="coding from home" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 250 width = 300/>
+- 🌱 I am learning Python and C <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 250 width = 300/>
 - 🔭 I'm currently training in Data Structures and Algorithms (DSA) andwith System Design (SD).  
 
 
