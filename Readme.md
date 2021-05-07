@@ -1,7 +1,7 @@
 ## Hi there, I'm Edi!  :dolphin:
 
 
-- :snake: I am learning **Python** and **C** <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 250 width = 350/>
+- :snake: I am learning **Python** and **C** <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 240 width = 370/>
 - 🔭 I'm training in **Data Structures and Algorithms** and **System Design**  
 - :dolphin: I'm training in **Kubernetes** for Developers
 - :musical_note: I'm learning to play my harmonica
