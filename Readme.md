@@ -30,5 +30,5 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=edithturn&&show_icons=true&theme=radical" alt="readme stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img height="166
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img height="165
 " alt="Github Streak" src="https://lh3.googleusercontent.com/proxy/6MqgN_FsPLbag3LjZl4MlDCtAuyRImR95AG88eC_i2COpAqwgZH7DcH-nBYzsCov5GqTwT3XOc_uHJn9VdJcJzoCka98uAN0J6JuF55cq27_" >
