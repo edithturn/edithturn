@@ -31,5 +31,4 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=edithturn&&show_icons=true&theme=radical" alt="readme stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img height="164
-" width="350" alt="Github Streak" src="https://lh3.googleusercontent.com/proxy/6MqgN_FsPLbag3LjZl4MlDCtAuyRImR95AG88eC_i2COpAqwgZH7DcH-nBYzsCov5GqTwT3XOc_uHJn9VdJcJzoCka98uAN0J6JuF55cq27_" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img height="164" width="350" alt="typing" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
