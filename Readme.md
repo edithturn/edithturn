@@ -4,7 +4,6 @@
 - :snake: I am learning **Python**, **C** and **Java**  <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 240 width = 370/>
 - 🔭 I'm training in **Data Structures and Algorithms** and **System Design**  
 - :dolphin: I'm training in **Kubernetes** for Developers
-- :musical_note: I'm learning to play my harmonica
 - :basketball: I like to play basketball
 - 💬 Ask me about:
 **Linux, DevOps, Cloud, Docker, Kubernetes, C, Python**.
