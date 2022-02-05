@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="img/outreachy2.png" width="150" height="30">  <img src="img/airflow.png" width="40" height="35">   <span style="font-size:large; font-weight:bold; color:sky-blue">Intern for Apache Airflow</span>
+<img src="img/outreachy2.png" width="152" height="36">  <img src="img/airflow.jpeg" width="48" height="42">   <span style="font-size:large; font-weight:bold; color:sky-blue">Intern for Apache Airflow</span>
 
 <br />
 
