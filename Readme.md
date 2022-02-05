@@ -2,15 +2,15 @@
 
 <br />
 
-<img src="img/outreachy2.png" width="152" height="36">  <img src="img/airflow.jpeg" width="48" height="42">   <span style="font-size:large; font-weight:bold; color:sky-blue">Intern for Apache Airflow</span>
+<img src="img/outreachy2.png" width="152" height="36">  <img src="img/airflow.jpeg" width="48" height="42">   <span style="font-size:large; font-weight:bold; color:sky-blue"> Intern for Apache Airflow</span>
 
 <br />
 
 <!-- LIST-ACTIVITIES:START -->
 
-- I am learning **Python** 🐍, **C** and **Java** ☕️  <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 240 width = 370/>
-- 🔭 I'm training in **Data Structures and Algorithms** and **System Design**  [LeetCode Profile](https://leetcode.com/Edithturn/)
-- 👾 I'm training in [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
+- 📚 I am learning **Python** 🐍, **C** and **Java** ☕️  <img align="right" alt="Girls Who Code" src= "https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ohc57koLSp1tgfjkso8_500.gifv" height = 240 width = 370/>
+- 🔭 Training in **Data Structures and Algorithms** and **System Design**  [LeetCode Profile](https://leetcode.com/Edithturn/)
+- 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
 - 🏀 I like to play basketball
 - 💬 Ask me about:
 **Linux, DevOps, Cloud, Docker, Kubernetes, C, Python**.
