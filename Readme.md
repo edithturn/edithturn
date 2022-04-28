@@ -19,7 +19,7 @@
 
 <!--LIST-ACTIVITIES:END -->
 
-### Feel free to conect with me:   <a href="https://linkedin.com/in/edithpuclla" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="nirmal-silwal" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/edithpuclla" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="silwal_nirmal" height="35" width="35" /></a> &nbsp;
+### Feel free to conect with me:   <a href="https://linkedin.com/in/edithpuclla" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/edithpuclla" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="edith_puclla" height="35" width="35" /></a> &nbsp;
 
 <!--LIST-YOUTUBE:START -->
 
