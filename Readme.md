@@ -27,8 +27,10 @@
 
 - [Using GUI For Debug Your Code With LLDB](https://www.youtube.com/watch?v=2Yw1chhv7UQ)
 - [Docker in 05 Minutes](https://www.youtube.com/watch?v=cxCG0cFgsd4)
+- [Elementary GitHub Readme](https://www.youtube.com/watch?v=4Bh3JEjFr3w&t=26s)
  
-<!--LIST-YOUTUBE:END -->
+ 
+ <!--LIST-YOUTUBE:END -->
 
 
 <!--LIST-BLOGS:START -->
