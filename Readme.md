@@ -8,7 +8,7 @@
 - <img src="img/outreachy2.png" width="132" height="25"> intern for Apache Airflow 2021   <img src="img/airflow.jpeg" width="25" height="22"> 
 - 🔭 Training in **Data Structures and Algorithms** and **System Design**  [LeetCode Profile](https://leetcode.com/Edithturn/)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
-- <img src="img/42.png" width="25" height="25"> Student 2020
+- <img src="img/42.jpeg" width="25" height="25"> Silicon Valley student 2020
 - 🏀 I like to play basketball
 - 💬 Ask me about:
 **Linux, DevOps, Cloud, Docker, Kubernetes, C, Python**.
