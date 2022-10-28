@@ -50,6 +50,8 @@
  
 <!--HACKTOBERFEST START -->
 
+ ### Hacktoberfest Badges 2022
+ 
 [![@edithpuclla's Holopin board](https://holopin.me/edithpuclla)](https://holopin.io/@edithpuclla)
 
 <!--HACKTOBERFEST END -->
