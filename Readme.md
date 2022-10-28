@@ -50,6 +50,11 @@
  
 <!--HACKTOBERFEST START -->
 
+[![@edithpuclla's Holopin board](https://holopin.me/edithpuclla)](https://holopin.io/@edithpuclla)
+
+<!--HACKTOBERFEST END -->
+
+
 <br />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=edithturn&&show_icons=true&theme=radical" alt="readme stats">
