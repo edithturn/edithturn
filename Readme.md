@@ -48,12 +48,13 @@
 
 <!--LIST-BLOGS:END -->
  
- <!--HACKTOBERFEST START -->
- 
- [![@edithpuclla's Holopin board](https://holopin.me/edithpuclla)](https://holopin.io/@edithpuclla)
+<!--HACKTOBERFEST START -->
 
+### Hacktoberfest badges
  
- <!--HACKTOBERFEST END -->
+[![@edithpuclla's Holopin board](https://holopin.me/edithpuclla)](https://holopin.io/@edithpuclla)
+
+<!--HACKTOBERFEST END -->
 
 <br />
 
