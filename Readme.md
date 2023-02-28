@@ -5,6 +5,7 @@
 <!-- LIST-ACTIVITIES:START -->
 
 - <img src="img/percona.png" width="25" height="25"> Technology Evangelist at Percona
+- Docker Captain 👩‍✈️ 🐳
 - <img src="img/outreachy2.png" width="132" height="25"> intern for Apache Airflow 2021   <img src="img/airflow.jpeg" width="25" height="22"> 
 - 🔭 Training in **Data Structures and Algorithms** and **System Design**  [LeetCode Profile](https://leetcode.com/Edithturn/)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
