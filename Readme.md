@@ -39,7 +39,7 @@
 
 <!--LIST-BLOGS:START -->
 
-### 🌱 Latest Blog Posts :art:
+### 🌱🌱 Latest Blog Posts :art:
 
 <!-- BLOG-POST-LIST:START -->
 
