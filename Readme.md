@@ -4,7 +4,7 @@
 
 <!-- LIST-ACTIVITIES:START -->
 
-- <img src="img/percona-new.jpg" width="25" height="25"> Technology Evangelist at Percona
+- <img src="img/percona-new.jpg" width="25" height="25"> Technology Evangelist at [Percona](https://github.com/percona)
 - 🇬🇧 UK Global Talent Visa Recipient
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
 - [Docker Captain](https://www.docker.com/community/captains/)👩‍✈️ 🐳
