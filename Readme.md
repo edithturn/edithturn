@@ -4,6 +4,7 @@
 
 <!-- LIST-ACTIVITIES:START -->
 
+- Visit my website: [edithpuclla.com](edithpuclla.com)
 - <img src="img/percona-new.jpg" width="25" height="25"> Technology Evangelist at [Percona](https://github.com/percona)
 - 🇬🇧 UK Global Talent Visa Recipient
 - [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
@@ -30,32 +31,14 @@
 
 <!--LIST-YOUTUBE:START -->
 
-### 📺 Latest YouTube Videos <img src="https://images.vexels.com/media/users/3/141532/isolated/preview/3a36614d8dde3aa7ee06398cb6dc80cb-icono-de-goma-de-youtube-by-vexels.png" alt="linux" width="25" height="25"/>
+### 📺 Visit my YouTube Channels <img src="https://images.vexels.com/media/users/3/141532/isolated/preview/3a36614d8dde3aa7ee06398cb6dc80cb-icono-de-goma-de-youtube-by-vexels.png" alt="linux" width="25" height="25"/>
 
-- [Docker init with Rust](https://youtu.be/X3mK51lZuGA)
-- [kubernetes Architecture Explained in 03 minutes](https://youtu.be/CLD0ltIfvW0)
-- [Docker init with Python](https://youtu.be/_31-YKg59Ro)
-- [Install Docker Desktop on Linux (Ubuntu 20.04)](https://youtu.be/rGq4vYrtHSY)
-- [Using GUI For Debug Your Code With LLDB](https://www.youtube.com/watch?v=2Yw1chhv7UQ)
-- [Docker in 05 Minutes](https://www.youtube.com/watch?v=cxCG0cFgsd4)
-- [Elementary GitHub Readme](https://www.youtube.com/watch?v=4Bh3JEjFr3w&t=26s)
+- [Tech con Edith](https://www.youtube.com/@techconedith)
+- [Tech With Edith](https://www.youtube.com/@techwithedi)
+- [By Edith](https://www.youtube.com/@byedithp)
 
  <!--LIST-YOUTUBE:END -->
 
-<!--LIST-BLOGS:START -->
-
-### 🌱🌱 Latest Blog Posts :art:
-
-<!-- BLOG-POST-LIST:START -->
-
-- [My first Kubecon became the trigger to excel in my professional career!](https://dev.to/edithpuclla/my-first-kubecon-became-the-trigger-to-excel-in-my-professional-career-5a9n)
-- [I finally got the job! :')](https://dev.to/edithpuclla/i-finally-got-the-job--928)
-- [My experience to become Outreachy Intern for Apache Airflow](https://dev.to/edithpuclla/my-experience-to-become-outreachy-intern-for-apache-airflow-48e6)
-- [My first blog as Outreachy Intern! ¨Core Values](https://dev.to/edithpuclla/my-first-blog-as-outreachy-intern-core-values-a0)
-- [My Piscine at 42 Silicon Valley California](https://medium.com/@edithpuclla/my-piscine-at-42-silicon-valley-ef662227ed6c)
-- [A brief and simple introduction to GPGPU](https://medium.com/katsuhi-code/a-brief-and-simple-introduction-to-gpgpu-fdb43637fff6)
-
-<!--LIST-BLOGS:END -->
 
 <!--HACKTOBERFEST START -->
 
